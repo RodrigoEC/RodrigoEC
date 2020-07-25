@@ -7,7 +7,7 @@ Hey, I'm Rodrigo, a student of Computer Science at UFCG, Brazil. I'm currently w
 
 :computer: - I'm currentlye working at ePol
 
-<br><br>
+<br>
 
 If you want more specific information about me you can find me at:
 
