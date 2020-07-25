@@ -3,10 +3,6 @@
 
 Hey, I'm Rodrigo, a student of Computer Science at UFCG, Brazil. I'm currently working at ePol a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG.
 
-<div>
-  <img align="right" width="350px" src="https://github.com/RodrigoEC/rodrigoec.github.io/blob/master/img/eu.jpeg" />
-</div>
-
 :seedling: - I'm currently learning: Flask & CSS & How to create navegator extensions
 
 :computer: - I'm currentlye working at ePol
