@@ -17,8 +17,6 @@ If you want more specific information about me you can find me at:
 
 - **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
 
-<br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoec&hide=Jupyter_Notebook&theme=onedark)](https://github.com/rodrigoec/github-readme-stats)
 
