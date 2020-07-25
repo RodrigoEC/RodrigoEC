@@ -10,9 +10,7 @@ Hey, I'm Rodrigo, a student of Computer Science at UFCG, Brazil. I'm currently w
 :seedling: - I'm currently learning: Flask & CSS & How to create navegator extensions
 
 :computer: - I'm currentlye working at ePol
-<!-- <div align="center">
-  <img width="400px" src="https://github.com/RodrigoEC/rodrigoec.github.io/blob/master/img/eu.jpeg">
-</div> -->
+
 <br><br>
 
 If you want more specific information about me you can find me at:
