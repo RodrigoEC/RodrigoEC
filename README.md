@@ -1,7 +1,7 @@
 ## Hi! I'm [Rodrigo](https://rodrigoec.github.io/).
 
 
-I'm a student of Computer Science at UFCG in Brazil. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG.
+I'm a student of Computer Science at UFCG in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG.
 
 :seedling: - I'm currently interested in: Flask & CSS & HTML & Python & How to create navegator extensions
 
