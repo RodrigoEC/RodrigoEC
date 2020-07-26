@@ -5,11 +5,11 @@ I'm a student of Computer Science at Federal University of Campina Grande(UFCG) 
 
 <br>
 
-If you want more specific information about me you can find me at:
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark&hide=stars" />
 </a>
+
+If you want more specific information about me you can find me at:
 
 - **My portfolio :closed_book:**: [rodrigoec.github.io](https://rodrigoec.github.io/)
 
@@ -17,7 +17,7 @@ If you want more specific information about me you can find me at:
 
 - **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
 
-<br><br><br><br>
+<br><br><br>
 
 ### These are the two repositories that I had more fun workin on
 
