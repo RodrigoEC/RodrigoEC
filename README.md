@@ -19,7 +19,7 @@ If you want more specific information about me you can find me at:
 
 <br><br><br><br>
 
-### These are to repositories that I had more fun workin on
+### These are the two repositories that I had more fun workin on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoec&repo=rodrigoec.github.io&theme=onedark)](https://github.com/rodrigoec/rodrigoec.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoec&repo=30DiasdeCSS&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
