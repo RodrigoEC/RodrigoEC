@@ -6,7 +6,7 @@
 
 <p>I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG. I'm most passionate about frontend development and data science :shipit:, musicals :notes: (Hamilton :heart:) and Photography :camera:.<p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="350" >
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="350" >
 
 ```Python
 Rodrigo = {
