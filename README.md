@@ -1,19 +1,21 @@
 <h2> Hi! I'm Rodrigo <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h2>
 
+[![Linkedin: Rodrigo Eloy](https://img.shields.io/badge/-rodrigoec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-eloy/)](https://www.linkedin.com/in/rodrigo-eloy-2bb037193/)
+[![GitHub Rodrigoec](https://img.shields.io/github/followers/rodrigoec?label=follow&style=social)](https://github.com/Rodrigoec)
+
 
 <p>I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG. I'm most passionate about frontend development and data science :shipit:, musicals :notes: (Hamilton :heart:) and Photography :camera:.<p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="300" >
+<img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400" >
 
 ```Python
 Rodrigo = {
   code = ["Python", "Java", "HTML", "CSS"],
-  Tools = ["Docker"].
-  hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"],
+  learning = ["Docker", "JavaScript", "CSS", "React", "Flask"].
+  hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"]
 }
 ```
 <br>
-
 
 If you want more specific information about me you can find me at:
 
@@ -23,9 +25,9 @@ If you want more specific information about me you can find me at:
 
 - **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
 
-<br><br>
+<br>
 
 ### My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark" />
 </a>
