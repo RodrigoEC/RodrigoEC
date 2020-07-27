@@ -6,7 +6,7 @@
 
 <p>I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG. I'm most passionate about frontend development and data science :shipit:, musicals :notes: (Hamilton :heart:) and Photography :camera:.<p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400" >
+<img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="350" >
 
 ```Python
 Rodrigo = {
@@ -15,7 +15,11 @@ Rodrigo = {
   hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"]
 }
 ```
-<br>
+<br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark" />
+</a>
 
 If you want more specific information about me you can find me at:
 
@@ -25,9 +29,4 @@ If you want more specific information about me you can find me at:
 
 - **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
 
-<br>
 
-### My stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoec&show_icons=true&theme=onedark" />
-</a>
