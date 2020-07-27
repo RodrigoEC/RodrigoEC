@@ -15,6 +15,7 @@ Rodrigo = {
   hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"]
 }
 ```
+<br>
 
 If you want more specific information about me you can find me at:
 
