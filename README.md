@@ -1,11 +1,19 @@
-## Hi! I'm [Rodrigo](https://rodrigoec.github.io/).
+<h2> Hi! I'm Rodrigo <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h2>
 
 
-I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG. I'm most passionate about frontend development and data science :shipit:, musicals :notes: (Hamilton :heart:) and Photography :camera:.
+<p>I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the fourth semester. I'm currently working at ePol, a project of the Federal Police in association with Software Practices Laboratory (Splab) at UFCG. I'm most passionate about frontend development and data science :shipit:, musicals :notes: (Hamilton :heart:) and Photography :camera:.<p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="300" >
+
+```Python
+Rodrigo = {
+  code = ["Python", "Java", "HTML", "CSS"],
+  Tools = ["Docker"].
+  hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"],
+}
+```
 <br>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 If you want more specific information about me you can find me at:
 
