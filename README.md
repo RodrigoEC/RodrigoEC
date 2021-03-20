@@ -10,7 +10,7 @@
 
 ```Python
 Rodrigo = {
-  code = ["Python", "Java", "HTML", "CSS"],
+  code = ["Python", "Java", "JavaScript", "HTML", "CSS"],
   learning = ["Docker", "JavaScript", "CSS", "React", "Flask"].
   hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"]
 }
