@@ -19,11 +19,12 @@ Rodrigo = {
 
 If you want more specific information about me you can find me at:
 
-- **My portfolio :closed_book:**: [rodrigoec.github.io](https://rodrigoec.github.io/)
+- **My portfolio :closed_book:**: [rodrigoec.vercel.app](https://rodrigoec.vercel.app/)
 
 - **Linkedin**: [Rodrigo Eloy](https://www.linkedin.com/in/rodrigo-eloy-2bb037193/)
 
 - **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
+
 
 <h3> My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" ></h3> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
