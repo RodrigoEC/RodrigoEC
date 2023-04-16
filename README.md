@@ -4,14 +4,16 @@
 [![GitHub Rodrigoec](https://img.shields.io/github/followers/rodrigoec?label=follow&style=social)](https://github.com/Rodrigoec)
 
 
-<p>I'm a student of Computer Science at Federal University of Campina Grande(UFCG) in Brazil at the 7th semester. I'm currently working at CodeSQ, a Software Practices Laboratory (Splab). I'm most passionate about frontend and backend development, musicals :notes: (Hamilton :heart:) and Photography :camera:.<p>
+<p>I'm a Computer Science undergraduate at Federal University of Campina Grande(UFCG) in Brazil at the 8th semester. Throughout my graduation I've been blessed with some incredible oportunities, such as the project ePol, a partnership between the brazilian Federal Police and UFCG, and the project CodeSQ, where I worked as frontend developer for the first time.</p>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="250" >
+<p>Well, currently I'm having the huge oportunity of been part of the first students generation to be part of the projetct <b>NuFuturo</b>, a partnership between @nubank and UFCG.</p>
+  
+  
+Besides that, I love music :notes:, movies, tv shows and exercising. :heart:
 
 ```Python
 Rodrigo = {
-  code = ["Python", "Java", "JavaScript", "Typescript", "HTML", "CSS", "ReactJS", "Flask", "Express", "Docker"],
-  learning = ["Shell Script"].
+  code = ["Python", "Java", "JavaScript", "Typescript", "ReactJS", "Flask", "Express", "Docker"],
   hobbies = ["Read", "VideoGames", "Photography", "Movies", "Series"]
 }
 ```
