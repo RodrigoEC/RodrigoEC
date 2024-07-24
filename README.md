@@ -4,11 +4,8 @@
 [![GitHub Rodrigoec](https://img.shields.io/github/followers/rodrigoec?label=follow&style=social)](https://github.com/Rodrigoec)
 
 
-<p>I'm a Computer Science undergraduate at Federal University of Campina Grande(UFCG) in Brazil at the 8th semester. Throughout my graduation I've been blessed with some incredible oportunities, such as the project ePol, a partnership between the brazilian Federal Police and UFCG, and the project CodeSQ, where I worked as frontend developer for the first time.</p>
-
-<p>Well, currently I'm having the huge oportunity of been part of the first students generation to be part of the projetct <b>NuFuturo</b>, a partnership between @nubank and UFCG.</p>
-  
-  
+<p>I'm a Software Engineer that graduated on Computer Science at the Federal University of Campina Grande(UFCG) in Brazil. I'm currentle working with the OCA project where we're creating a platform for sharing data about the Caatinga biome and the impacts of the brazilian public politcs on the area.</p>
+    
 Besides that, I love music :notes:, movies, tv shows and exercising. :heart:
 
 ```Python
