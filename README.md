@@ -4,7 +4,7 @@
 [![GitHub Rodrigoec](https://img.shields.io/github/followers/rodrigoec?label=follow&style=social)](https://github.com/Rodrigoec)
 
 
-<p>I'm a Software Engineer that graduated on Computer Science at the Federal University of Campina Grande(UFCG) in Brazil. I'm currentle working with the OCA project where we're creating a platform for sharing data about the Caatinga biome and the impacts of the brazilian public politcs on the area.</p>
+<p>I'm a Software Engineer graduated on Computer Science at the Federal University of Campina Grande(UFCG) here in Brazil. I'm part of the OCA (Observatório da Caatinga) team responsible for creating a platform for making available data about the Caatinga biome and the impacts of the brazilian public politics on this area.</p>
     
 Besides that, I love music :notes:, movies, tv shows and exercising. :heart:
 
