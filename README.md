@@ -22,7 +22,7 @@ If you want more specific information about me you can find me at:
 
 - **Linkedin**: [Rodrigo Eloy](https://www.linkedin.com/in/rodrigo-eloy-2bb037193/)
 
-- **E-mail :mailbox::** rodrigo.cavalcanti@ccc.ufcg.edu.br
+- **E-mail :mailbox::** rodrigoecavalcanti@gmail.com
 
 
 <h3> My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" ></h3> 
